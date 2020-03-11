@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="exam">2571466cdb230010dc8a7a61399619d6</application>
+        <filter/>
+        <name>exams</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_58872_needit.exam_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-11 09:20:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6171466cdb230010dc8a7a61399619d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>exams</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_module_6171466cdb230010dc8a7a61399619d9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-11 09:20:48</sys_updated_on>
+        <table>x_58872_needit_exam</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>417e3be6dbfa93001ddcf22ebf96199c</instance_id>
+        <instance_name>dev62346</instance_name>
+        <name>sys_ui_module_6171466cdb230010dc8a7a61399619d9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="exam">2571466cdb230010dc8a7a61399619d6</application><filter/><name>exams</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_58872_needit.exam_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-11 09:20:48</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6171466cdb230010dc8a7a61399619d9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>exams</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_module_6171466cdb230010dc8a7a61399619d9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-11 09:20:48</sys_updated_on><table>x_58872_needit_exam</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>-303708661</payload_hash>
+        <record_name>exams</record_name>
+        <reverted_from/>
+        <source>43a9e8addb930010dc8a7a61399619bf</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-11 09:20:48</sys_created_on>
+        <sys_id>6d71466cdb230010dc8a7a61399619db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170c8e581380000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-11 09:20:48</sys_updated_on>
+        <type>Module</type>
+        <update_guid>a571466c9f230010b4e42853cc2cc6db</update_guid>
+        <update_guid_history>a571466c9f230010b4e42853cc2cc6db:-303708661</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-11 09:21:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>0228addeb73b47668401fca99b6d84e4</sys_id>
+        <sys_metadata>6171466cdb230010dc8a7a61399619d9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>exams</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_module_6171466cdb230010dc8a7a61399619d9</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_6171466cdb230010dc8a7a61399619d9">6d71466cdb230010dc8a7a61399619db</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-11 09:21:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
